@@ -1,0 +1,35 @@
+[SIZE=5][TABLE width="100%"]
+[TR]
+[td width="100.0000%"]
+[FONT=times new roman][IMG width="1000px" size="1920x402"]https://forum.gta5rp.com/attachments/fedk-png.3193307/[/IMG][/FONT]
+[CENTER][FONT=times new roman][B]ФЕДЕРАЛЬНЫЙ СУД ШТАТА САН-АНДРЕАС
+
+ОРДЕР №ASC-{{registration_number}}[/B]
+[IMG width="557px" size="1920x246"]https://forum.gta5rp.com/attachments/pic-png.3193308/[/IMG]
+
+Штат Сан-Андреас, г. Лос-Сантос[IMG width="515px" size="850x16"]https://i.imgur.com/dR3Ta2p.png[/IMG]{{document_date}}
+
+[/FONT][/CENTER]
+[JUSTIFY][FONT=times new roman]{{introduction}}[/FONT][/JUSTIFY]
+
+[CENTER][B][FONT=times new roman]У С Т А Н О В И Л:[/FONT][/B][/CENTER]
+
+[JUSTIFY][FONT=times new roman]{{decision_date}} {{introduction}} {{punishment_order}}
+
+В течение заданного срока {{punished_name}} (№ ID-идентификатора: {{passport_number}}) не оплатил указанную штрафную санкцию, в связи с чем, на основании статьи 4.11.1 Уголовного кодекса штата Сан-Андреас, Конституции штата Сан-Андреас, Судебного кодекса штата Сан-Андреас, Федеральный суд штата Сан-Андреас[/FONT][/JUSTIFY]
+
+[CENTER][B][FONT=times new roman]П О С Т А Н О В И Л:[/FONT][/B][/CENTER]
+
+[JUSTIFY][FONT=times new roman]1. Объявить в розыск, задержать и арестовать гражданина [B]{{punished_name}} (№ ID-идентификатора: {{passport_number}})[/B] с дальнейшим конвоированием в Федеральное пенитенциарное учреждение для отбывания наказания за нарушение статей {{violation_articles}} Уголовного кодекса штата Сан-Андреас с лишением свободы общим сроком на {{imprisonment_years}} года. Срок запрета на службу в государственных органах устанавливается в соответствии с действующим Уголовным кодексом штата Сан-Андреас;
+2. Признать органами исполнения настоящего ордера следующие государственные силовые структуры: FIB, USSS, LSPD, LSSD;
+3. Признать участвующими органами настоящего ордера следующие государственные силовые структуры: NG, SASPA;
+4. Сотрудник, производящий арест лица, указанного в пункте 1 настоящего ордера, обязан при заполнении бланка ареста в поле «статьи» указать номер настоящего ордера.
+5. Срок действия ордера установить до момента выполнения задач, указанных в нем.
+6. Ордер вступает в силу с момента публикации на портале штата Сан-Андреас и может быть обжалован в установленном законом порядке.[/FONT][/JUSTIFY]
+
+[RIGHT][FONT=times new roman]
+{{author_position}}
+{{author_full_name}}
+{{author_signature}}[/FONT][/RIGHT][/td]
+[/TR]
+[/TABLE][/SIZE]

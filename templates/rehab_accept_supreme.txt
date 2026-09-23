@@ -1,0 +1,28 @@
+[SIZE=5][TABLE width="100%"]
+[TR]
+[td width="100.0000%"][RIGHT][FONT=times new roman]Дело №LR{{claim_number}}-{{case_suffix}}/{{current_year}}
+№{{registration_number}}-LR{{claim_number}}[/FONT][/RIGHT]
+[FONT=times new roman][IMG width="1000px" size="1920x402"]https://cloud.minibites.space/files/d17d617a-135d-4311-837a-8cc0f4dcf3cb.png[/IMG][/FONT]
+[CENTER][FONT=times new roman][B]ВЕРХОВНЫЙ СУД ШТАТА САН-АНДРЕАС
+
+ОПРЕДЕЛЕНИЕ
+О принятии заявления к производству[/B]
+[IMG width="557px" size="1920x246"]https://cloud.minibites.space/files/c50b9bbc-e80f-4f01-82fa-512b4a4a595d.png[/IMG]
+
+Штат Сан-Андреас, г. Лос-Сантос[IMG width="362px" size="850x16"]https://i.imgur.com/dR3Ta2p.png[/IMG]{{document_date}}
+
+[/FONT][/CENTER]
+[JUSTIFY][FONT=times new roman]Верховный Суд штата Сан-Андреас в лице Председателя Верховного Суда штата Сан-Андреас {{author_full_name}}, рассмотрев заявление на юридическую реабилитацию №{{claim_number}} от гражданина {{applicant_name}},[/FONT][/JUSTIFY]
+[CENTER][B][FONT=times new roman]У С Т А Н О В И Л:[/FONT][/B][/CENTER]
+[JUSTIFY][FONT=times new roman]Заявление подано в соответствии к установленным требованиям и нормам, установленных Судебным кодексом штата Сан-Андреас, формой подачи заявлений на юридическую реабилитацию в Верховный Суд штата Сан-Андреас. На основании изложенного, руководствуясь действующими нормативно-правовыми актами штата Сан-Андреас, суд[/FONT][/JUSTIFY]
+[CENTER][B][FONT=times new roman]О П Р Е Д Е Л И Л:[/FONT][/B][/CENTER]
+[JUSTIFY][FONT=times new roman]1. Принять к производству Верховного Суда штата Сан-Андреас заявление на юридическую реабилитацию №{{claim_number}} от гражданина {{applicant_name}}.
+2. Назначить судебную пошлину в размере ${{fee_amount}}, которую необходимо уплатить в течение 48 часов с момента вступления настоящего определения в силу на банковский счет Председателя Верховного Суда штата Сан-Андреас {{author_full_name}} (№ ID-идентификатора: {{passport_number}}).
+3. Определение вступает в силу с момента его публикации на портал штата Сан-Андреас.[/FONT][/JUSTIFY]
+
+[RIGHT][FONT=times new roman]
+Председатель Верховного Суда штата Сан-Андреас
+{{author_full_name}}
+{{author_signature}}[/FONT][/RIGHT][/td]
+[/TR]
+[/TABLE][/SIZE]

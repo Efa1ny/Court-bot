@@ -1,0 +1,27 @@
+[SIZE=5][TABLE width="100%"]
+[TR]
+[td width="100.0000%"]
+[FONT=times new roman][IMG width="1000px" size="1920x402"]https://forum.gta5rp.com/attachments/1769898870789-png.2939171/[/IMG][/FONT]
+[CENTER][FONT=times new roman][B]ВЕРХОВНЫЙ СУД ШТАТА САН-АНДРЕАС
+
+ОРДЕР №IA-{{order_number}}[/B]
+[IMG width="557px" size="1920x246"]https://i.imgur.com/GgJDonj.png[/IMG]
+
+Штат Сан-Андреас, г. Лос-Сантос[IMG width="515px" size="850x16"]https://i.imgur.com/dR3Ta2p.png[/IMG]{{document_date}}
+
+[/FONT][/CENTER]
+[JUSTIFY][FONT=times new roman]В Верховный Суд штата Сан-Андреас поступило исковое заявление №{{claim_number}} против лица, обладающего статусом неприкосновенности, в действиях которого возможен состав преступного деяния или административного правонарушения. Исходя из изложенного Верховный Суд штата Сан-Андреас[/FONT][/JUSTIFY]
+
+[CENTER][B][FONT=times new roman]П О С Т А Н О В И Л:[/FONT][/B][/CENTER]
+
+[JUSTIFY][FONT=times new roman]1. Разрешить прокуратуре штата Сан-Андреас провести расследование в отношении {{investigated_role}} {{investigated_name}} (№ID-идентификатора: {{passport_number}}) в рамках искового заявления №{{claim_number}}, поданного в Верховный Суд штата Сан-Андреас.
+2. Расширить полномочия сотрудников прокуратуры штата Сан-Андреас, задействованных в расследовании, в целях установления всех обстоятельств и следственных фактов по делу.
+3. Установить срок действия настоящего ордера до окончания производства по делу.
+4. Ордер вступает в законную силу с момента его публикации на портал штата Сан-Андреас и может быть обжалован в установленном Законом порядке.[/FONT][/JUSTIFY]
+
+[RIGHT][FONT=times new roman]
+{{author_position}}
+{{author_full_name}}
+{{author_signature}}[/FONT][/RIGHT][/td]
+[/TR]
+[/TABLE][/SIZE]

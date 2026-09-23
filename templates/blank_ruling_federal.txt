@@ -1,0 +1,28 @@
+[SIZE=5][TABLE width="100%"]
+[TR]
+[td width="100.0000%"]
+[RIGHT][FONT=times new roman]Дело №{{claim_number}}-{{case_suffix}}/{{current_year}}
+№{{registration_number}}-{{claim_number}}[/FONT][/RIGHT]
+[FONT=times new roman][IMG width="1000px" size="1920x402"]https://forum.gta5rp.com/attachments/fedk-png.3193307/[/IMG][/FONT]
+[CENTER][FONT=times new roman][B]ФЕДЕРАЛЬНЫЙ СУД ШТАТА САН-АНДРЕАС
+
+ОПРЕДЕЛЕНИЕ[/B]
+{{determination_subject}}
+[IMG width="557px" size="1920x246"]https://forum.gta5rp.com/attachments/pic-png.3193308/[/IMG]
+
+Штат Сан-Андреас, г. Лос-Сантос[IMG width="515px" size="850x16"]https://i.imgur.com/dR3Ta2p.png[/IMG]{{document_date}}
+
+[/FONT][/CENTER]
+[JUSTIFY][FONT=times new roman]Федеральный суд штата Сан-Андреас в составе председательствующего судьи {{author_full_name}} в рамках рассмотрения искового заявления №{{claim_number}} от {{name_player}} к {{respondent_name}}[/FONT][/JUSTIFY]
+
+[CENTER][B][FONT=times new roman]О П Р Е Д Е Л И Л:[/FONT][/B][/CENTER]
+
+[JUSTIFY][FONT=times new roman]1. {{determination_text}}
+2. Настоящее судебное определение вступает в законную силу с момента его непосредственной публикации на портал штата Сан-Андреас.[/FONT][/JUSTIFY]
+
+[RIGHT][FONT=times new roman]
+{{author_position}}
+{{author_full_name}}
+{{author_signature}}[/FONT][/RIGHT][/td]
+[/TR]
+[/TABLE][/SIZE]

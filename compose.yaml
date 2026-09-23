@@ -1,0 +1,26 @@
+services:
+  court-bot:
+    build: .
+    restart: unless-stopped
+    init: true
+    read_only: true
+    env_file:
+      - .env
+    environment:
+      DATABASE_PATH: /app/data/court_bot.db
+      TEMPLATES_DIR: /app/templates
+    volumes:
+      - court_bot_data:/app/data
+    tmpfs:
+      - /tmp:size=16m,noexec,nosuid
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    logging:
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+volumes:
+  court_bot_data:

@@ -1,0 +1,30 @@
+[SIZE=5][TABLE width="100%"]
+[TR]
+[td width="100.0000%"][RIGHT][FONT=times new roman]Дело №{{claim_number}}-{{case_suffix}}/{{current_year}}
+№{{registration_number}}-{{claim_number}}[/FONT][/RIGHT]
+[FONT=times new roman][IMG width="1000px" size="1920x402"]https://forum.gta5rp.com/attachments/fedk-png.3193307/[/IMG][/FONT]
+[CENTER][FONT=times new roman][B]ФЕДЕРАЛЬНЫЙ СУД ШТАТА САН-АНДРЕАС
+ОПРЕДЕЛЕНИЕ
+О ПРИНЯТИИ ИСКОВОГО ЗАЯВЛЕНИЯ К ПРОИЗВОДСТВУ[/B]
+[IMG width="557px" size="1920x246"]https://forum.gta5rp.com/attachments/pic-png.3193308/[/IMG]
+
+Штат Сан-Андреас, г. Лос-Сантос[IMG width="515px" size="850x16"]https://i.imgur.com/dR3Ta2p.png[/IMG]{{document_date}}
+
+[/FONT][/CENTER]
+[JUSTIFY][FONT=times new roman]Федеральный суд штата Сан-Андреас в составе председательствующего cудьи {{author_full_name}} рассмотрев вопрос о принятии к производству искового заявления [FONT=times new roman]№{{claim_number}} от {{claimant_status_genitive}} {{name_player}} к {{respondent_status_dative}} {{respondent_name}}[/FONT], установил, что исковое заявление подано с соблюдением требований, предусмотренных Судебным кодексом штата Сан-Андреас,[/FONT][/JUSTIFY]
+[FONT=times new roman][/FONT]
+[CENTER][B][FONT=times new roman]О П Р Е Д Е Л И Л:[/FONT][/B][/CENTER]
+[FONT=times new roman][/FONT]
+[JUSTIFY][FONT=times new roman]1. Исковое заявление №{{claim_number}} от {{claimant_status_genitive}} {{name_player}} к {{respondent_status_dative}} {{respondent_name}} принять к производству Федерального Суда штата Сан-Андреас.
+2. Установить форму ведения производства по настоящему делу как {{proceeding_type}}.
+3. Обязать Корпус судебных приставов штата Сан-Андреас в течение 24 часов направить {{respondent_status_dative}} копию настоящего определения, а также копию рассматриваемого искового заявления, зафиксировав факт извещения. По исполнении требований настоящего судебного акта незамедлительно письменно известить об этом суд с представлением доказательств вручения указанных документов.
+4. {{proceeding_investigation}}
+5. Установить срок досудебного производства по материалам настоящего дела продолжительностью 72 часа с момента вступления настоящего определения в силу.
+6. Настоящее определение вступает в силу с момента его публикации.[/FONT][/JUSTIFY]
+
+[RIGHT][FONT=times new roman]
+{{author_position}}
+{{author_full_name}}
+{{author_signature}}[/FONT][/RIGHT][/td]
+[/TR]
+[/TABLE][/SIZE]

@@ -1,0 +1,120 @@
+{
+  "templates": [
+    {
+      "key": "accept_claim_supreme",
+      "name": "Принятие иска ВС",
+      "filename": "accept_claim_supreme.txt",
+      "case_suffix": "SJ",
+      "form_type": "accept_claim"
+    },
+    {
+      "key": "accept_claim_federal",
+      "name": "Принятие иска ФС",
+      "filename": "accept_claim_federal.txt",
+      "case_suffix": "FJ",
+      "form_type": "accept_claim"
+    },
+    {
+      "key": "reject_claim_supreme",
+      "name": "Отказ в принятии иска ВС",
+      "filename": "reject_claim_supreme.txt",
+      "case_suffix": "SJ",
+      "form_type": "reject_claim"
+    },
+    {
+      "key": "reject_claim_federal",
+      "name": "Отказ в принятии иска ФС",
+      "filename": "reject_claim_federal.txt",
+      "case_suffix": "FJ",
+      "form_type": "reject_claim"
+    },
+    {
+      "key": "resolutive_decision_supreme",
+      "name": "Резолютивное решение (очное) ВС",
+      "filename": "resolutive_decision_supreme.txt",
+      "case_suffix": "SJ",
+      "form_type": "resolutive_decision"
+    },
+    {
+      "key": "resolutive_decision_federal",
+      "name": "Резолютивное решение (очное) ФС",
+      "filename": "resolutive_decision_federal.txt",
+      "case_suffix": "FJ",
+      "form_type": "resolutive_decision"
+    },
+    {
+      "key": "default_decision_supreme",
+      "name": "Заочное решение ВС",
+      "filename": "default_decision_supreme.txt",
+      "case_suffix": "SJ",
+      "form_type": "default_decision"
+    },
+    {
+      "key": "default_decision_federal",
+      "name": "Заочное решение ФС",
+      "filename": "default_decision_federal.txt",
+      "case_suffix": "FJ",
+      "form_type": "default_decision"
+    },
+    {
+      "key": "schedule_hearing_supreme",
+      "name": "Назначение судебного заседания ВС",
+      "filename": "schedule_hearing_supreme.txt",
+      "case_suffix": "SJ",
+      "form_type": "schedule_hearing"
+    },
+    {
+      "key": "schedule_hearing_federal",
+      "name": "Назначение судебного заседания ФС",
+      "filename": "schedule_hearing_federal.txt",
+      "case_suffix": "FJ",
+      "form_type": "schedule_hearing"
+    },
+    {
+      "key": "blank_ruling_supreme",
+      "name": "Определение (пустышка) ВС",
+      "filename": "blank_ruling_supreme.txt",
+      "case_suffix": "SJ",
+      "form_type": "blank_ruling"
+    },
+    {
+      "key": "blank_ruling_federal",
+      "name": "Определение (пустышка) ФС",
+      "filename": "blank_ruling_federal.txt",
+      "case_suffix": "FJ",
+      "form_type": "blank_ruling"
+    },
+    {
+      "key": "asc_overdue_supreme",
+      "name": "Ордер ASC за просрочку ВС",
+      "filename": "asc_overdue_supreme.txt",
+      "form_type": "asc_order"
+    },
+    {
+      "key": "asc_overdue_federal",
+      "name": "Ордер ASC за просрочку ФС",
+      "filename": "asc_overdue_federal.txt",
+      "form_type": "asc_order"
+    },
+    {
+      "key": "ia_investigation_supreme",
+      "name": "Ордер IA на расследование ВС",
+      "filename": "ia_investigation_supreme.txt",
+      "form_type": "ia_order"
+    },
+    {
+      "key": "rehab_accept_supreme",
+      "name": "Принятие заявления на юр. реабилитацию ВС",
+      "filename": "rehab_accept_supreme.txt",
+      "case_suffix": "SJ",
+      "form_type": "rehab_accept"
+    },
+    {
+      "key": "rehab_grant_supreme",
+      "name": "Удовлетворение юр. реабилитации ВС",
+      "filename": "rehab_grant_supreme.txt",
+      "case_suffix": "SJ",
+      "form_type": "rehab_grant"
+    }
+  ]
+}
